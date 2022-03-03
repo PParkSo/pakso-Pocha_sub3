@@ -11,7 +11,7 @@ h1{
 
 }
 body{font-size:14px;
-min-width:1350px;
+min-width:1580px;
 background-image: url(images/bak.png);}
 /*기본구조끝*/
 *{
@@ -174,7 +174,7 @@ height: 110px;
 /*인스타시작*/
 
 .sub {
-  width: 955px;
+  width: 1200px;
   margin: 0px auto;
   position: relative;
 }
@@ -202,13 +202,13 @@ height: 110px;
 
 /*화살표 이동하기*/
 .sub .swiper-button-prev {
-    left: 30px;
+    left: 6px;
     right: auto;
     color: #fff;
 }
 
 .sub .swiper-button-next {
-    right: 30px;
+    right: 6px;
     left: auto;
     color: #fff;
     
